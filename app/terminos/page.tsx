@@ -13,7 +13,7 @@ const CLAUSES = [
   {
     n: "Primera",
     title: "Partes",
-    text: "El presente contrato se celebra entre TRANQUILIDAD 24 (en adelante "la Empresa") y el titular del servicio (en adelante "el Socio").",
+    text: "El presente contrato se celebra entre TRANQUILIDAD 24 (en adelante 'la Empresa') y el titular del servicio (en adelante 'el Socio').",
   },
   {
     n: "Segunda",
